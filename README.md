@@ -13,10 +13,10 @@ Leveraging machine learning techniques, this project provides users with a compr
 
 With its focus on natural language processing and data availability, this tool serves as a valuable resource for individuals seeking to stay informed about global affairs regardless of language barriers.
 
-## Contributing
+## Contribute
 Contributions to the News Summarization and Translation Tool are welcome! If you're interested in contributing, please follow these steps:
 
-## Fork the repository.
+Fork the repository.
 Create a new branch for your feature or enhancement.
 Make your changes and submit a pull request.
 
